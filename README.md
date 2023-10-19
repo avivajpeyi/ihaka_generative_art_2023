@@ -1,1 +1,1 @@
-# Jupyter book website template
+# Ihaka Generative Art Expts
