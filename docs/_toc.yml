@@ -5,5 +5,5 @@ format: jb-book
 root: notebooks
 
 chapters:
-  url: https://avivajpeyi.github.io/
+- url: https://avivajpeyi.github.io/
   title: Home
